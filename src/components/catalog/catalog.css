@@ -1,0 +1,10 @@
+.item{
+    flex: 1;
+    flex-basis: 33%;
+}
+.catalogItems{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
